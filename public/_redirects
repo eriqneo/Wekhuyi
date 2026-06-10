@@ -1,3 +1,0 @@
-# SPA fallback routing rule for Cloudflare Pages
-# Redirects all traffic to index.html with a 200 status code, enabling client-side routing
-/* /index.html 200
