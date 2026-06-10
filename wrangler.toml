@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "d-w-wekhuyi-associates-advocates"
+name = "wekhuyi"
 compatibility_date = "2026-06-10"
 pages_build_output_dir = "dist"
 
